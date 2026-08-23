@@ -14,5 +14,8 @@ Para executar pelo Maven Wrapper:
 
 ### Windows
 
-```bash
+``bash
 .\mvnw.cmd spring-boot:run
+
+### Linux/macOS
+./mvnw spring-boot:run
