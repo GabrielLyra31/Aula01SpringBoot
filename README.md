@@ -10,6 +10,17 @@ Esta API apresenta receitas culinárias, incluindo uma receita em destaque e uma
 
 O projeto utiliza Spring Boot e está configurado para utilizar a porta **8081**.
 
+------------------------
+Um detalhe importante
+
+Eu coloquei:
+
+```text
+imagens/boas-vindas.png
+imagens/destaque.png
+imagens/receitas.png
+------------------------
+
 Para executar pelo Maven Wrapper:
 
 ### Windows
